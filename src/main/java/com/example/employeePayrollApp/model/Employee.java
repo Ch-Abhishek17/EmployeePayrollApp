@@ -1,5 +1,4 @@
 package com.example.employeePayrollApp.model;
-
 import jakarta.persistence.*;
 import lombok.*;
 
